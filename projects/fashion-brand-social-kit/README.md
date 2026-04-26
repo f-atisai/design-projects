@@ -18,14 +18,11 @@ Create clear, visually consistent Instagram-ready posts that help customers:
 - place orders easily
 
 ## Deliverables
-### Size Chart
-- 1 design
-
-### Policies
-- 8 designs covering customer-facing store policies
-
-### How to Order
-- 2 designs explaining the ordering process
+| Category      | Description                                         |
+|--------------|-----------------------------------------------------|
+| Size Chart   | 1 design                                            |
+| Policies     | 8 designs covering customer-facing store policies   |
+| How to Order | 2 designs explaining the ordering process           |
 
 ## Assets
 - icons
